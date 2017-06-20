@@ -1,4 +1,4 @@
-Нужно подключение к интернету для успешного завершения команд, которые нужны выполнить в терминале, чтобы создать глобальный gitignore-файл:
+Нужно подключение к интернету, чтобы успешно выполнить в терминале команды, которые создадут глобальный gitignore-файл:
 ```bash
 echo -e '# This file based on https://github.com/github/gitignore' > ~/.gitignore_global
 echo -e '\n\n### MacOS\n' >> ~/.gitignore_global
